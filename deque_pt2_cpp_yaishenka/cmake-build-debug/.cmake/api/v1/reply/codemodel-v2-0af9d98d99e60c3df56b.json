@@ -1,0 +1,70 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-7e924ce6fc95755b4c79.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "deque_pt2_cpp_yaishenka::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-deque_pt2_cpp_yaishenka-Debug-dc9dcab0c0696e7d3eab.json",
+					"name" : "deque_pt2_cpp_yaishenka",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "deque_pt2_stress_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-deque_pt2_stress_test-Debug-3359f1c8ba87eade1ecf.json",
+					"name" : "deque_pt2_stress_test",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/katerina/mipt/4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/Cpp/cpp_course22_Ekaterina_Prohorchuk_2022/deque_pt2_cpp_yaishenka/cmake-build-debug",
+		"source" : "/home/katerina/mipt/4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/Cpp/cpp_course22_Ekaterina_Prohorchuk_2022/deque_pt2_cpp_yaishenka"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

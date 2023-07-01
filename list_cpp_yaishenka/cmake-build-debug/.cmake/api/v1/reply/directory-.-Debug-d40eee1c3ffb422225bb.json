@@ -1,0 +1,45 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 19,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "/home/katerina/mipt/4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/Cpp/cpp_course22_Ekaterina_Prohorchuk_2022/list_cpp_yaishenka/bin",
+			"paths" : 
+			[
+				"list_cpp_yaishenka"
+			],
+			"targetId" : "list_cpp_yaishenka::@6890427a1f51a3e7e1df",
+			"targetIndex" : 0,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	}
+}

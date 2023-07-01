@@ -1,0 +1,9 @@
+/home/katerina/mipt/4 семестр/Cpp/cpp_course22_Ekaterina_Prohorchuk_2022/deque_pt2_cpp_yaishenka/build/CMakeFiles/deque_pt2_cpp_yaishenka.dir
+/home/katerina/mipt/4 семестр/Cpp/cpp_course22_Ekaterina_Prohorchuk_2022/deque_pt2_cpp_yaishenka/build/CMakeFiles/deque_pt2_stress_test.dir
+/home/katerina/mipt/4 семестр/Cpp/cpp_course22_Ekaterina_Prohorchuk_2022/deque_pt2_cpp_yaishenka/build/CMakeFiles/test.dir
+/home/katerina/mipt/4 семестр/Cpp/cpp_course22_Ekaterina_Prohorchuk_2022/deque_pt2_cpp_yaishenka/build/CMakeFiles/edit_cache.dir
+/home/katerina/mipt/4 семестр/Cpp/cpp_course22_Ekaterina_Prohorchuk_2022/deque_pt2_cpp_yaishenka/build/CMakeFiles/rebuild_cache.dir
+/home/katerina/mipt/4 семестр/Cpp/cpp_course22_Ekaterina_Prohorchuk_2022/deque_pt2_cpp_yaishenka/build/CMakeFiles/list_install_components.dir
+/home/katerina/mipt/4 семестр/Cpp/cpp_course22_Ekaterina_Prohorchuk_2022/deque_pt2_cpp_yaishenka/build/CMakeFiles/install.dir
+/home/katerina/mipt/4 семестр/Cpp/cpp_course22_Ekaterina_Prohorchuk_2022/deque_pt2_cpp_yaishenka/build/CMakeFiles/install/local.dir
+/home/katerina/mipt/4 семестр/Cpp/cpp_course22_Ekaterina_Prohorchuk_2022/deque_pt2_cpp_yaishenka/build/CMakeFiles/install/strip.dir

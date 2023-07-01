@@ -1,0 +1,61 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d40eee1c3ffb422225bb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "list_cpp_yaishenka::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-list_cpp_yaishenka-Debug-069a9975e99fae2c9dda.json",
+					"name" : "list_cpp_yaishenka",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/katerina/mipt/4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/Cpp/cpp_course22_Ekaterina_Prohorchuk_2022/list_cpp_yaishenka/cmake-build-debug",
+		"source" : "/home/katerina/mipt/4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/Cpp/cpp_course22_Ekaterina_Prohorchuk_2022/list_cpp_yaishenka"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
